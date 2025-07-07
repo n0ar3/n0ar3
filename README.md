@@ -19,7 +19,7 @@ I'm a passionate frontend developer focused on building clean, responsive, and a
 ### 🛠️ Technologies & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,tailwind,redux,git,github,vscode" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,nuxtjs,tailwind" alt="Tech stack" />
 </p>
 
 ---
